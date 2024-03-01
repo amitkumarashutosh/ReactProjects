@@ -6,5 +6,7 @@ React intermediate projects with different API
     <li>Memes Generator = https://memesgeneraterapp.netlify.app/</li>
     <li>Tenzies Game = https://tenziesrollgame.netlify.app/</li>
     <li>WareHouse = https://warehousedetail.netlify.app/ </li>
+    <li>Planet's Media = https://planets-media.netlify.app/ </li>
     <li>News Website = Work on localhost only</li>
+    
 </ul>
