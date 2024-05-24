@@ -8,5 +8,8 @@ React intermediate projects with different API
     <li>WareHouse = https://warehousedetail.netlify.app/ </li>
     <li>Planet's Media = https://planets-media.netlify.app/ </li>
     <li>News Website = Work on localhost only</li>
+    <li>Twitter clone = Localhost only</li>
+    <li>Todo app = https://official-todos-app.netlify.app/</li>
+    <li>User comment card = https://users-review-card.netlify.app/</li>
     
 </ul>
