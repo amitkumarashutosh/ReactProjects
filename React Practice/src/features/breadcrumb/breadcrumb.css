@@ -1,0 +1,8 @@
+.bread__crumb{
+    font-size: 1.4rem;
+    margin: 2rem;
+}
+.bread__crumb a{
+    text-decoration: none;
+
+}

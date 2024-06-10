@@ -1,0 +1,22 @@
+.grid__light{
+    border: green 2px solid;
+    display: grid;
+    max-width: 300px;
+    width: 100%;
+    background-color: white;
+    padding: 1rem;
+    gap: 1rem;
+    margin: 3rem auto;
+}
+
+.grid__light .cell{
+   border: green 2px solid;
+   background-color: transparent;
+   cursor: pointer;
+   padding-bottom: 100%;
+}
+
+.grid__light .cell__activated{
+    background-color: green;
+}
+

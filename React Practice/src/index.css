@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #e1dada;
+}
+
+.home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 900px;
+    margin: auto;
+}
+
+.home h1{
+    margin-top: 1rem;
+}
+
+.home .buttons{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1rem;
+}
+
+.home .buttons button{
+    padding: 0.6rem 0.9rem;
+    font-size: 1rem;
+    background-color: rgb(113, 218, 90);
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    color: white;
+}
+
+.home .buttons button:hover{
+    background-color: rgb(62, 202, 30);
+}
+
+.home .buttons button a{
+    text-decoration: none;
+}
